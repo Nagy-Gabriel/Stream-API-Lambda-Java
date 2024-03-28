@@ -1,0 +1,42 @@
+[
+  {
+    "nume": "Gabriel",
+    "post": "programator",
+    "data_angajarii": [
+      2023,
+      4,
+      28
+    ],
+    "salariu": 2600.0
+  },
+  {
+    "nume": "Alex",
+    "post": "sef",
+    "data_angajarii": [
+      2023,
+      4,
+      13
+    ],
+    "salariu": 5000.0
+  },
+  {
+    "nume": "Mihai",
+    "post": "director",
+    "data_angajarii": [
+      2023,
+      7,
+      28
+    ],
+    "salariu": 6500.0
+  },
+  {
+    "nume": "Ion",
+    "post": "curatenie",
+    "data_angajarii": [
+      2017,
+      3,
+      28
+    ],
+    "salariu": 1700.0
+  }
+]
